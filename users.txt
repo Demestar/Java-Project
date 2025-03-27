@@ -1,0 +1,5 @@
+Deme 123 Administrator Male deme@gamil.com
+Chaw 123 SalesManager Male sensei@gmail.com
+Jayy 123 PurchaseManager Male jayyap@gmail.com
+Shri 123 FinanceManager Male shri@gmail.com
+Damy 123 InventoryManager Male damy@gmail.com
